@@ -1,0 +1,3 @@
+{
+  "python.analysis.extraPaths": ["./main-service/auth/auth_pb2_"]
+}
